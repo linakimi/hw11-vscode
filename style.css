@@ -1,5 +1,8 @@
 
-
+@font-face {
+  font-family: "fright";
+  src: url('assets\fright_maiden\Fright Maiden Demo.ttf');
+}
 * {
   margin: 0;
   padding: 0;
