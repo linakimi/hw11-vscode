@@ -1,7 +1,7 @@
 
 @font-face {
-  font-family: "Vanilla Pancake"
-  src: url('assets\vanilla_pancake\Vanilla Pancake.ttf');
+  font-family: "fright"
+  src: url('assets\fright_maiden\Fright Maiden Demo.ttf');
 }
 * {
   margin: 0;
@@ -57,7 +57,7 @@ p{
   color: rgb(242, 242, 242);
   border: 5px solid rgb(64, 115, 68);
   font-size: 40px;
-  font-family: "fright," sans-serif;
+  font-family: "fright", sans-serif;
 }
 
 .hsl {
