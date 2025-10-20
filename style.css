@@ -1,7 +1,7 @@
 
 @font-face {
   font-family: "Vanilla Pancake"
-  src: url('url(assets/fright_maiden/quick_spooky/vanilla_pancake/Vanilla Pancake.ttf');
+  src: url('assets\vanilla_pancake\Vanilla Pancake.ttf');
 }
 * {
   margin: 0;
@@ -16,7 +16,8 @@ html {
 }
 
 body {
-  background-color: #fef6e4;
+ /*background-color: #fef6e4; */
+ background-color: #8bd3dd;
   width: 100vw;
 }
 
